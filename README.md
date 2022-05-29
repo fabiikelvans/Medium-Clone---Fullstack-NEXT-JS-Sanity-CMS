@@ -5,7 +5,7 @@
 
 
 ### Live
-Check out the demo site [Medium Clone]([https://clone-aae80.web.app/](https://medium-clone-fullstack-next-js-sanity-cms.vercel.app/))
+Check out the demo site [Medium Clone]([https://medium-clone-fullstack-next-js-sanity-cms.vercel.app/](https://medium-clone-fullstack-next-js-sanity-cms.vercel.app/))
 
 
 ### Built using:
